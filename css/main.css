@@ -139,9 +139,14 @@ img {
     font-size: 1.5rem;
 }
 
+#home-b .stats .fas {
+    color:#ffbc00;
+}
+
 #home-b .stats li.stats-number {
     font-size: 2rem;
     font-weight: bold;
+    color:#CD5C5C
 }
 
 #home-b .stats div:nth-child(odd) {
