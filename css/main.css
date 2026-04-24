@@ -472,6 +472,18 @@ input[class^='btn-']:hover {
   margin-bottom: 10px;
 }
 
+@media (max-width: 600px) {
+    .certs-card {
+        grid-template-columns: 1fr;
+        gap: 10px;
+    }
+    
+    .cert-card {
+        padding: 8px;
+        text-align: center;
+    }
+}
+
 .flex-row {
   display: flex;
   justify-content: space-between;
