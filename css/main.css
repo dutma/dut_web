@@ -378,7 +378,7 @@ input[class^='btn-']:hover {
 
 #about-a .about-info .bio-image {
     grid-area: bioimage;
-    border-radius: 50%;
+    border-radius: 70%;
 }
 
 #about-a .about-info .bio {
