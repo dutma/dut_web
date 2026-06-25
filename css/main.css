@@ -5,7 +5,7 @@
     --light-color: #f4f4f4;
     --medium-color: #ccc;
     --dark-color: #333;
-    --bg-image: url('../img/da.jpg');
+    --bg-image: url('../img/d_a_w.png');
     --light-text-color: #fff; 
     --dark-text-color: #000; 
   }
@@ -105,7 +105,7 @@ img {
 #header-home .header-content h1 {
     font-size: 4rem;
     line-height: 1.2;
-    color: var(--dark-color); 
+    color: var(--light-text-color); 
 }
 
 #header-inner {
@@ -277,7 +277,7 @@ input[class^='btn-']:hover {
 .lead {
     font-size: 1.3rem;
     margin: 2rem 0;
-    color: var(--dark-color); 
+    color: var(--light-text-color); 
 }
 
 /* .text-center */
