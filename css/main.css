@@ -786,7 +786,7 @@ input[class^='btn-']:hover {
     }
 
     #home-a .container div {
-        border-bottom: 2px var(--light-color) solid; /* Assuming --light-color is defined elsewhere */
+        border-bottom: 2px var(--light-color) solid; 
         padding: 1rem;
     }
 
@@ -837,6 +837,9 @@ input[class^='btn-']:hover {
 
     #contact-w h1 {
         font-size: 1rem;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
     }
 
     /* footer */
@@ -865,7 +868,7 @@ input[class^='btn-']:hover {
 }
 /* .container */
 .container {
-    max-width: var(--website-width); /* Assuming --website-width is defined elsewhere */
+    max-width: var(--website-width); 
     padding: 0 1.5rem;
     margin: auto;
     overflow: hidden;
